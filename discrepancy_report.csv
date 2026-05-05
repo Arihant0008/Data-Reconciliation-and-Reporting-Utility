@@ -1,0 +1,4 @@
+transaction_id,symbol_sys,trade_type_sys,amount_sys,symbol_db,trade_type_db,amount_db,_merge
+TXN-1003,GOOG,BUY,300.0,,,,left_only
+TXN-1006,,,,NVDA,BUY,400.0,right_only
+TXN-1004,AMZN,SELL,9500.0,AMZN,SELL,9000.0,both
