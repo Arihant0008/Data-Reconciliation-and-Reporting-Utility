@@ -1,9 +1,3 @@
-Here is a professional, production-ready README.md for your GitHub repository. It perfectly mirrors the operational, detail-oriented tone required for a Tech Ops role.
-
-Create a file named README.md in your project folder and paste this exactly as it is:
-
----
-
 # Data Reconciliation and Reporting Utility
 
 ## Overview
