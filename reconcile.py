@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 import mysql.connector
 import logging
 from dotenv import load_dotenv
